@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Primoris.Ai.Kitt.Knowledge
+namespace Primoris.Ai.Kitt.Neural
 {
-	public abstract class Bubble
+	public class CellBody
 	{
 	}
 }
