@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Primoris.Ai.Kitt.Neural
+namespace Primoris.Ai.Kitt.Environment.Perception
 {
-	public class CellBody
+	public abstract class Speech
 	{
 	}
 }

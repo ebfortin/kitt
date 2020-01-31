@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Primoris.Ai.Kitt.Environment.Perception
 {
-	public abstract class TextSpeach : Speach
+	public abstract class TextSpeech : Speech
 	{
 	}
 }
